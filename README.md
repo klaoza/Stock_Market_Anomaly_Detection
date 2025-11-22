@@ -2,8 +2,7 @@
 
 **Project #3 - Data Mining Course**  
 **Created by:** Islem Nasri  
-**Instructor:** Dr-ing Rym Besrour  
-**Academic Year:** 2025/2026
+
 
 ---
 
